@@ -14,6 +14,12 @@ The purpose of this project was to create an interactive random password generat
 * Iteration statement used for the user input window (window.prompt) value of var fifth to set parameters for input
 * Math floor and math random used to randomize values from the userChoice array
 * Return finalPassword used to create string value for empty var finalPassword 
+* Final password appears in the empty box inside the password generator box
 * console.log used for entirety of function to ensure functionality and absence of mistakes are logged in the console
 
 ## Assets
+![Screenshot](./PasswordScreen.jpeg)
+[LinktoRepository](https://github.com/Clatimer97/Challenge3_PasswordGenerator)
+
+## Author
+[@CallanLatimer](https://github.com/Clatimer97)
